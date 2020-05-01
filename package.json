@@ -1,0 +1,24 @@
+{
+  "name": "uitools",
+  "version": "0.0.1",
+  "description": "Tools used for HMI's based on web tech",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^3.4.1",
+    "jquery": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loupeteam/uiTools.git"
+  },
+  "author": "Josh Polansky",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loupeteam/uiTools/issues"
+  },
+  "homepage": "https://github.com/loupeteam/uiTools#readme"
+}
