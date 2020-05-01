@@ -1,4 +1,8 @@
-[submodule "uiToolDropDown"]
-	path = uiToolDropDown
+[submodule "VerticalSlider"]
+	path = VerticalSlider
+	url = https://github.com/loupeteam/uiToolVerticalSlider.git
+	branch = master
+[submodule "DropDown"]
+	path = DropDown
 	url = https://github.com/loupeteam/uiToolDropDown.git
 	branch = master
