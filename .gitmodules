@@ -6,3 +6,10 @@
 	path = DropDown
 	url = https://github.com/loupeteam/uiToolDropDown.git
 	branch = master
+[submodule "RobotView"]
+	path = RobotView
+	url = https://github.com/loupeteam/uiToolRobotView.git
+	branch = master
+[submodule "Configure"]
+	path = Configure
+	url = https://github.com/loupeteam/uiToolConfigure.git
